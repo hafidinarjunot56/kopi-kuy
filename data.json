@@ -3,22 +3,29 @@
         {
             "foto": "images/produk/product_capuchino.jpg",
             "nama": "Cappuccino Arabica",
-            "size": "500 Gram",
-            "harga": "200.000",
+            "size": "200 Gram",
+            "harga": "35.000",
             "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_espresso.jpg",
             "nama": "Pahit Arabica",
             "size": "100 Gram",
-            "harga": "100.000",
+            "harga": "25.000",
             "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
         },
         {
             "foto": "images/produk/product_latte.jpg",
             "nama": "Latte Arabica",
             "size": "150 Gram",
-            "harga": "150.000",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        },
+        {
+            "foto": "https://media.istockphoto.com/id/639140452/id/foto/kopi.jpg?s=612x612&w=0&k=20&c=LQ7VUZbDiN0BkTc5np1vfoYXnW6f2h5UB1sf8rpog2M=",
+            "nama": "Espreso Arabica",
+            "size": "150 Gram",
+            "harga": "30.000",
             "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
         }
     ],
@@ -27,15 +34,59 @@
             "foto": "images/produk/product_kopi_susu.jpg",
             "nama": "Kopsus Robusta",
             "size": "100 Gram",
-            "harga": "500.000",
+            "harga": "40.000",
             "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
         },
         {
-            "foto": "images/produk/product_latte.jpg",
+            "foto": "https://media.istockphoto.com/id/1130315137/id/foto/secangkir-kopi-cappuccino.jpg?s=612x612&w=0&k=20&c=KnwAlwLFkJmL4psl81COMmc4qry8EDgT5vCN4HIgi8o=",
             "nama": "Latte Robusta",
             "size": "150 Gram",
-            "harga": "150.000",
+            "harga": "35.000",
             "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://media.istockphoto.com/id/658735834/id/foto/foto-kopi.jpg?s=612x612&w=0&k=20&c=r_dworq4b70uBzcX2NnxithgECF00OwZ4YA6d8wt5vo=",
+            "nama": "Capppuccino",
+            "size": "100 Gram",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        },
+        {
+            "foto": "https://media.istockphoto.com/id/1297414659/id/foto/es-kopi-americano-dalam-gelas-di-sebuah-bar-di-sebuah-kafe.jpg?s=612x612&w=0&k=20&c=AaNPITc9LnKRLVZSOBmaQESQsrsZpUDt4i7raA4wrtw=",
+            "nama": "Americano",
+            "size": "100 Gram",
+            "harga": "45.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "makanan": [
+        {
+            "foto": "https://media.istockphoto.com/id/1360652008/id/foto/siomay-bandung-atau-pangsit-kukus-dengan-telur-rebus-tahu-kentang-dan-kubis-gulung.jpg?s=612x612&w=0&k=20&c=PL8_4LiYkPt6JN_hCrd4gDkBUemR2yINyrvH1mNLIOE=",
+            "nama": "Siomai Bandung",
+            "size": "300 Gram",
+            "harga": "30.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "foto": "https://media.istockphoto.com/id/1491821644/id/foto/buah-jambu-biji-campuran-rujak-atau-rujak-banyak-ditemukan-di-indonesia-malaysia-dan-singapura.jpg?s=612x612&w=0&k=20&c=SgkzICFmzTPUAxYX6bo_MhiSCj-6LJ5KPBOT4o-DMdg=",
+            "nama": "Rujak",
+            "size": "250 Gram",
+            "harga": "25.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "foto": "https://media.istockphoto.com/id/1368106830/id/foto/seblak-ceker-makanan-jalanan-populer-dari-jawa-barat-indonesia-terbuat-dari-kerupuk-rebus.jpg?s=612x612&w=0&k=20&c=zMaf839yARVvwj39WFK8nErPUjn2cyZUmGzuNiVEcm8=",
+            "nama": "Seblak Ceker",
+            "size": "500 Gram",
+            "harga": "35.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "foto": "https://media.istockphoto.com/id/1327987424/id/foto/ayam-goreng-yang-terkenal-di-indonesia-dan-sangat-populer-adalah-ayam-geprek-selain-rasanya.jpg?s=612x612&w=0&k=20&c=aHpGoePCU1AugrndLZSs-vHbP7OpxZ5LJIwRgwmfPQI=",
+            "nama": "Ayam Geprek",
+            "size": "550 Gram",
+            "harga": "50.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
         }
     ]
 }
